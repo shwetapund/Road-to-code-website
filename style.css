@@ -1,0 +1,283 @@
+.navbar{
+    background-color: #ffebcd;
+    padding: 12px;
+    font-size: 25px;
+    text-align: center;
+    font-family: Zen Maru Gothic,sans-serif;
+}
+body{
+   /* margin: 0;*/
+    background-color: #f6f8fa;
+    
+}
+.text{
+  
+    font-size: 17px;
+}
+.call-now{
+    text-decoration: none;
+    color:black;
+}
+.navbar-2{
+    background-color: #ffffff;
+    padding: 15px;
+    font-size: 20px;
+
+}
+.img-logo{
+    height: 40px;
+    margin-left: 80px;
+    margin-bottom: -10px;
+}
+.rtc{
+    margin-right: 150px;
+    font-size: 22px;
+
+}
+.link{
+    text-decoration: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    color:black;
+}
+
+.group-image{
+    height: 440px;
+    margin-left: 150px;
+
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.main-heading{
+    font-size: 40px;
+    font-family: Zen Maru Gothic,sans-serif;
+    
+}
+.small-text{
+    font-size: 28px;
+    
+}
+.btn{
+    font-size: 15px;
+    padding: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+    font-family: Zen Maru Gothic,sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.btn-1{
+    background-color: #ffc107;
+    color: black;
+    margin-left: 50px;
+}
+.call-us{
+    height: 20px;
+    margin-bottom: -5px;
+}
+
+
+
+.teacher-img{
+    height: 440px;
+    /* margin-left: 800px; */
+    
+
+}
+.benifits{
+    display: flex;
+    flex-direction: column;
+}
+
+.feature-img{
+    height: 100px;
+}
+.cards
+{
+    width: 300px;
+    
+    background-color: #ffffff;
+    border: 1px solid #e2e4e8;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+    display: inline-block;
+
+} 
+.main-cards-container{
+   
+   display: inline-block;
+  margin-left: 100px;
+}
+.feat-icon{
+    background-color: #faf8f6;
+    padding: 5px;
+    border: 1px solid #e2e4e8;
+    border-radius: 5px;
+}
+.feat-text{
+    font-size: 22px;
+    font-weight: bold;
+   
+}
+.feat-img-container{
+    display: inline-block;
+    vertical-align:middle;
+    margin-top:-300px;
+    
+   
+}
+.sub-cards-container{
+    display: inline-block;
+    margin-left: 100px;
+}
+.feat-head-text-1{
+    margin-left: 20px;
+}
+.feat-head-text-2{
+    color:#4895f6;
+}
+
+
+.courses-cards-container{
+    display: flex;
+    flex-direction:row;
+    
+}
+.courses-card{
+    
+    background-color: white;
+    height: 550px;
+    width: 350px;
+   margin-left: 20px;
+   border-radius: 5px;
+   padding: 4px;
+   box-shadow:0 0 3px 3px #e1e3e5;
+   border-bottom: 5px solid #4895f6;
+}
+.course-img-card{
+    height: 200px;
+    width: 340px;
+    margin-left: 5px;
+    padding-top:5px;
+    border-radius: 10px;
+}
+.courses-card-1{
+    margin-left: 100px;
+}
+.course-card-text{
+    text-align: center;
+    font-family: Zen Maru Gothic,sans-serif;
+}
+.course-title{
+    font-size: 50px;
+    text-align: center;
+    font-family: Zen Maru Gothic,sans-serif;
+}
+.course-calender{
+    height: 30px;
+    
+}
+.course-cale-text{
+    font-size: 21px;
+}
+.course-prize{
+    text-align: center;
+    font-size: 30px;
+}
+.btn-know-more{
+    font-size: 18px;
+    padding:10px;
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 7px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+.below-card-change{
+    margin-top:30px;
+}
+.course-text{
+    text-align:left;
+    margin-left: 5px;
+}
+.span-u{
+    border-bottom: 3px double green;
+}
+.team-title{
+    text-align: center;
+}
+.team-text{
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.team-card{
+    height:400px;
+    width:260px;
+    background-color:#ffffff;
+    display: inline-block;
+    margin-left: 20px;
+    border-radius: 5px;
+    box-shadow:0 0 3px 3px #e1e3e5;
+    vertical-align: middle;
+    border-bottom: 4px solid black;
+}
+.team-card-1{
+    margin-left: 100px;
+}
+.team-img{
+   width:250px;
+   height: 260px;
+   margin-left: 7px;
+   margin-top: 5px;
+}
+.T-text{
+    font-size: 20px;
+    text-align: center;
+    font-family: Zen Maru Gothic,sans-serif;
+    
+}
+.T-small-text{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.linkdin-img{
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.main-container-team{
+   display: flex;
+   flex-direction: row;
+   
+}
+.icon-height{
+    height: 30px;
+    
+}
+.team-text{
+    font-size: 25px;
+}
+
+.S{
+    display: inline-block;
+    vertical-align: middle;
+}
+.team-image{
+    position: relative;
+    top: 5px;
+    margin-left: 20px;
+}
+
+
